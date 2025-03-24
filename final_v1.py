@@ -36,6 +36,7 @@ def fetch_recursive(query):
             params={"query": query, "max_results": 5000},
             timeout=15
         )
+        
         response.raise_for_status()
         data = response.json()
         
