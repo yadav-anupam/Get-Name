@@ -1,5 +1,5 @@
 # IVY Homes API Exploration
-
+#### I have added documentation pdf for my whole process of thorigh and exploration.
 ## Overview
 This project focuses on exploring and analyzing the IVY Homes API, including different versions, rate limits, and methods to extract name data efficiently. The process involved API enumeration, request handling, and adaptive querying strategies.
 
